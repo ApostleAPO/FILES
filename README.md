@@ -15,7 +15,7 @@ Here you can explore my featured tools, designed with a strong focus on algorith
 * **Global Hotkey Triggers:** Access your tools instantly without breaking your workflow.
 * **High-Performance UI:** Features a custom glassmorphic interface that is lightweight but visually stunning.
 
-![Launchpad OS Preview](launcher/esempio.png)
+![Launchpad OS Preview]([launcher/esempio.png](https://denisdev.online/projects/launcher/esempio.png))
 
 ---
 
@@ -26,7 +26,7 @@ Here you can explore my featured tools, designed with a strong focus on algorith
 * **Performance Focused:** Designed to run silently in the background without hogging system resources.
 * **Data Protection:** Implements modern security protocols to keep user data isolated and safe.
 
-![PY Antivirus Dashboard](antivirus/antivirus_screen.png)
+![PY Antivirus Dashboard]([antivirus/antivirus_screen.png](https://denisdev.online/projects/antivirus/screen_antivirus.png))
 
 ---
 
@@ -35,7 +35,7 @@ Here you can explore my featured tools, designed with a strong focus on algorith
 If you're interested in my work, have a project in mind, or just want to say hi, feel free to reach out!
 
 - **Email:** [denismoraru12@gmail.com](mailto:denismoraru12@gmail.com)
-- **Website:** *[Link to your live portfolio here]*
+- **Website:** *[[My Portofolio](https://denisdev.online/)]*
 
 ---
 *DESIGNED BY DENIS DEV — ALL RIGHTS RESERVED © 2026*
