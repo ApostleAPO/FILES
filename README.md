@@ -1,32 +1,41 @@
-<div align="center">
-<img height="100" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# 💻 DENIS DEV | Portfolio & Projects
 
-<div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=apostleapo.apostleapo&"  />
-</div>
+Welcome to the central repository for **Denis Moraru's** development projects. I am a Software Developer and University Student specializing in Web and Python development.
 
-<h1 align="center">Hi 👋, I'm Denis</h1>
-<h3 align="center">To see my web projects visit my <a href="https://denisdev.online" text-decoration="none">WebSite</a></h3>
+Here you can explore my featured tools, designed with a strong focus on algorithmic logic, system performance, and high-quality UI/UX.
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
+## 🚀 Featured Projects
 
-<div style="text-align: center;">
-<img style="width: 100%; display: block; max-width: 800px; margin: 0 auto;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
-</div>
+### 1. Launchpad OS
+**Launchpad OS** is a sleek, macOS-inspired productivity launcher built for Windows environments. It bridges the gap between aesthetics and raw utility.
+
+* **Smart App Indexing:** Instantly searches and catalogs your software.
+* **Global Hotkey Triggers:** Access your tools instantly without breaking your workflow.
+* **High-Performance UI:** Features a custom glassmorphic interface that is lightweight but visually stunning.
+
+![Launchpad OS Preview](launcher/esempio.png)
+
+---
+
+### 2. PY Antivirus
+**PY Antivirus** is an advanced core system utility developed in Python. It focuses on seamless system integration and robust security architecture.
+
+* **Deep Scanning:** Advanced file parsing to detect anomalies.
+* **Performance Focused:** Designed to run silently in the background without hogging system resources.
+* **Data Protection:** Implements modern security protocols to keep user data isolated and safe.
+
+![PY Antivirus Dashboard](antivirus/antivirus_screen.png)
+
+---
+
+## 📫 Contact & Connect
+
+If you're interested in my work, have a project in mind, or just want to say hi, feel free to reach out!
+
+- **Email:** [denismoraru12@gmail.com](mailto:denismoraru12@gmail.com)
+- **Website:** *[Link to your live portfolio here]*
+
+---
+*DESIGNED BY DENIS DEV — ALL RIGHTS RESERVED © 2026*
