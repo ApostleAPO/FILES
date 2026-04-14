@@ -1,4 +1,4 @@
-# 💻 DENIS DEV | Portfolio & Projects
+# 💻 DENIS DEV | Projects
 
 Welcome to the central repository for **Denis Moraru's** development projects. I am a Software Developer and University Student specializing in Web and Python development.
 
@@ -35,7 +35,7 @@ Here you can explore my featured tools, designed with a strong focus on algorith
 If you're interested in my work, have a project in mind, or just want to say hi, feel free to reach out!
 
 - **Email:** [denismoraru12@gmail.com](mailto:denismoraru12@gmail.com)
-- **Website:** *[[My Portofolio](https://denisdev.online/)]*
+- **Website:** [denisdev.online](https://denisdev.online/)
 
 ---
-*DESIGNED BY DENIS DEV — ALL RIGHTS RESERVED © 2026*
+
