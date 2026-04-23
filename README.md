@@ -30,12 +30,20 @@ Here you can explore my featured tools, designed with a strong focus on algorith
 
 ---
 
+### 3. Cyber Tool (Made by Apox)
+**Cyber Tool** is an elite, command-line utility tailored for red team operations, system auditing, and network analysis. Written in Python and styled with a cyberpunk aesthetic, it leverages native OS commands for advanced diagnostics.
+
+* **Web Stress Testing & DNS Interception:** Benchmark server load capacities and trace hidden DNS records seamlessly.
+* **Local WiFi Vault Extraction:** Performs a deep OS dive to retrieve saved WPA/WPA2 wireless network profiles and clear-text passwords.
+* **Stealth Port Scanning & Cryptography:** Rapid vulnerability mapping and instant Base64 encryption/decryption modules.
+
+![Cyber Tool Preview](https://denisdev.online/projects/cybertool/index.html)
+
+---
+
 ## 📫 Contact & Connect
 
 If you're interested in my work, have a project in mind, or just want to say hi, feel free to reach out!
 
 - **Email:** [denismoraru12@gmail.com](mailto:denismoraru12@gmail.com)
 - **Website:** [denisdev.online](https://denisdev.online/)
-
----
-
