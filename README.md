@@ -37,7 +37,7 @@ Here you can explore my featured tools, designed with a strong focus on algorith
 * **Local WiFi Vault Extraction:** Performs a deep OS dive to retrieve saved WPA/WPA2 wireless network profiles and clear-text passwords.
 * **Stealth Port Scanning & Cryptography:** Rapid vulnerability mapping and instant Base64 encryption/decryption modules.
 
-![Cyber Tool Preview](https://denisdev.online/projects/cybertool/index.html)
+![Cyber Tool Preview](https://denisdev.online/projects/cyber_tool/index.html)
 
 ---
 
