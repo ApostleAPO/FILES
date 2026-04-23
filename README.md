@@ -15,8 +15,6 @@ Here you can explore my featured tools, designed with a strong focus on algorith
 * **Global Hotkey Triggers:** Access your tools instantly without breaking your workflow.
 * **High-Performance UI:** Features a custom glassmorphic interface that is lightweight but visually stunning.
 
-![Launchpad OS Preview](https://denisdev.online/projects/launcher/index.html)
-
 ---
 
 ### 2. PY Antivirus
@@ -26,18 +24,14 @@ Here you can explore my featured tools, designed with a strong focus on algorith
 * **Performance Focused:** Designed to run silently in the background without hogging system resources.
 * **Data Protection:** Implements modern security protocols to keep user data isolated and safe.
 
-![PY Antivirus Dashboard](https://denisdev.online/projects/antivirus/index.html)
-
 ---
 
-### 3. Cyber Tool (Made by Apox)
+### 3. Cyber Tool 
 **Cyber Tool** is an elite, command-line utility tailored for red team operations, system auditing, and network analysis. Written in Python and styled with a cyberpunk aesthetic, it leverages native OS commands for advanced diagnostics.
 
 * **Web Stress Testing & DNS Interception:** Benchmark server load capacities and trace hidden DNS records seamlessly.
 * **Local WiFi Vault Extraction:** Performs a deep OS dive to retrieve saved WPA/WPA2 wireless network profiles and clear-text passwords.
 * **Stealth Port Scanning & Cryptography:** Rapid vulnerability mapping and instant Base64 encryption/decryption modules.
-
-![Cyber Tool Preview](https://denisdev.online/projects/cyber_tool/index.html)
 
 ---
 
